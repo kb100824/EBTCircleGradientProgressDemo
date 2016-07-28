@@ -25,16 +25,5 @@
 3->设置progressPercent属性值
 [_gradientProgressView setProgressPercent:100.0];
 
-
-
-
-
-
-
-
-
-
-
-
 #效果演示图
 ![Image](https://github.com/KBvsMJ/EBTCircleGradientProgressDemo/blob/master/Demogif/circleprogress.gif)
