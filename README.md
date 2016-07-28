@@ -37,4 +37,4 @@
 
 
 #效果演示图
-![Image](https://github.com/KBvsMJ/EBTCircleGradientProgressDemo/blob/master/Demo/circleprogress.gif)
+![Image](https://github.com/KBvsMJ/EBTCircleGradientProgressDemo/blob/master/Demogif/circleprogress.gif)
